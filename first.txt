@@ -1,4 +1,1 @@
-Gitの練習をします
-aaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
+test git
